@@ -39,8 +39,11 @@ The overall score is a weighted aggregation of four key metrics (each scaled 0-1
   * [USGS Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/)
   * [Open-Meteo Flood API](https://open-meteo.com/en/docs/flood-api)
 
+## Deployment
+* **Live Link:** [https://micro-climate-scorer.vercel.app](https://micro-climate-scorer.vercel.app)
+
 ## Setup Instructions
-1. Clone this repository: `git clone <your-repo-link>`
+1. Clone this repository: `git clone https://github.com/rahil4321/Micro-Climate-Scorer`
 2. Navigate to the project directory: `cd micro-climate-scorer`
 3. Install dependencies: `npm install`
 4. Create a `.env.local` file in the root directory and add your Firebase configuration keys:
